@@ -135,7 +135,7 @@ Together, these issues underscore the challenges facing many Americans today. Th
 #### Tables/Figures:
 
 #### Main Dashboard
-![Dashboard](https://github.com/Corvus-JSDev/Is-the-American-Dream-Dead-Research-Paper-/blob/main/american_dream_imgs/dashboard.PNG)
+![Dashboard](https://github.com/Corvus-JSDev/Is-the-American-Dream-Dead-Research-Paper-/blob/main/american_dream_imgs/dashboard2.PNG)
 
 
 #### "Is the American Dream Dead?" Survey
