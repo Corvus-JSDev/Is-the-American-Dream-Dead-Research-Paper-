@@ -1,4 +1,8 @@
 # Is The American Dream Dead?
+Author: Giovanni Squillace <br>
+Date: Jan. 29, 2025 <br>
+Read time: ~15-20 minutes <br>
+
 As a lifelong American, I set out to address the question: *"Is the American Dream dead?"* This study aims to offer a clear analysis of the perspectives across multiple generations, examining how factors such as cost of living and crime rates have shifted over time, and exploring why so many individuals today feel a sense of hopelessness.
 
 
